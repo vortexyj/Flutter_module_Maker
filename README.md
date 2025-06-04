@@ -145,7 +145,6 @@ Many generated Dart files include `// TODO:` comments to guide you on where to a
 
 ## 7. Contributing / Further Development (Optional)
 
-*(Placeholder: If you want others to contribute to the script itself)*
 * Ideas for improvements are welcome.
 * Feel free to fork this repository, make changes, and open a Pull Request.
 * Ensure any changes to the script are tested.
